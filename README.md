@@ -14,6 +14,7 @@
 
 # Setup
 Compile and run.
+Image is outputted in PPM file format.
 
 # See Also
 Ray Tracing in One Weekend by Peter Shirley. Most of the starting structure of this ray tracer is based on the code from this book.
